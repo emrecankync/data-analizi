@@ -1,0 +1,41 @@
+op_name,gen,kuyruk_yil,sdr,sdr_100ky
+Alaska,A320ceo ailesi,119.0,760,638.7
+Alaska,B737 MAX,264.8,2006,757.6
+Alaska,B737 NG,1001.6,13366,1334.5
+Allegiant,A320ceo ailesi,673.3,2335,346.8
+American,A320ceo ailesi,2655.7,31601,1189.9
+American,A320neo ailesi,414.3,2656,641.1
+American,B737 MAX,181.5,932,513.4
+American,B737 NG,2103.6,20302,965.1
+American,B777,440.5,4162,944.7
+American,B787,353.8,1502,424.5
+Delta,A220,323.8,2763,853.4
+Delta,A320ceo ailesi,1440.9,13104,909.4
+Delta,A320neo ailesi,177.7,459,258.3
+Delta,A330ceo,272.9,5327,1952.2
+Delta,A330neo,155.3,2022,1301.6
+Delta,A350,162.4,671,413.1
+Delta,B717,478.1,4280,895.2
+Delta,B737 NG,1437.8,8752,608.7
+Delta,B757,798.8,11646,1457.8
+Delta,B767,429.8,5667,1318.4
+Frontier,A320ceo ailesi,163.6,370,226.1
+Frontier,A320neo ailesi,327.4,646,197.3
+Hawaiian,A320neo ailesi,110.0,581,528.2
+Hawaiian,A330ceo,169.0,1809,1070.4
+Hawaiian,B717,113.0,239,211.5
+JetBlue,A220,109.8,308,280.4
+JetBlue,A320ceo ailesi,1160.8,5127,441.7
+JetBlue,A320neo ailesi,159.2,1415,888.6
+Southwest,B737 MAX,1004.2,3874,385.8
+Southwest,B737 NG,4060.7,75863,1868.2
+Spirit,A320ceo ailesi,713.5,2914,408.4
+Spirit,A320neo ailesi,361.8,1528,422.3
+Sun Country,B737 NG,309.2,2244,725.8
+United,A320ceo ailesi,1004.3,5809,578.4
+United,B737 MAX,656.6,1380,210.2
+United,B737 NG,1951.3,10574,541.9
+United,B757,360.2,2907,806.9
+United,B767,330.3,2237,677.2
+United,B777,556.1,2815,506.2
+United,B787,386.1,1000,259.0

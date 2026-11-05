@@ -1,0 +1,5 @@
+# Ham ve ara veri büyük (≈210 MB); repoya girmez. INSTRUCTION.md'deki adımla yeniden oluşturulur.
+data/raw/
+data/processed/
+__pycache__/
+*.pyc

@@ -1,0 +1,49 @@
+govde,analiz,sonuc,IRR,ga_alt,ga_ust,p,n_kuyruk_yil
+Dar gövde,Ana model (tüm veri),Tüm SDR,1.1085,1.0673,1.1513,0.0,28177
+Dar gövde,Ana model (tüm veri),Sistem+motor arızası (yapı hariç),0.9899,0.9526,1.0286,0.6034,28177
+Dar gövde,Ana model (tüm veri),Aksatan olay (tedbir uygulanan),0.9819,0.9242,1.0432,0.5548,28177
+Dar gövde,Southwest hariç,Tüm SDR,1.0907,1.0503,1.1327,0.0,22890
+Dar gövde,Southwest hariç,Sistem+motor arızası (yapı hariç),0.9803,0.9434,1.0186,0.3088,22890
+Dar gövde,Southwest hariç,Aksatan olay (tedbir uygulanan),0.9794,0.9219,1.0405,0.5002,22890
+Dar gövde,Yalnızca yolcu ana hat,Tüm SDR,1.1163,1.075,1.1593,0.0,25935
+Dar gövde,Yalnızca yolcu ana hat,Sistem+motor arızası (yapı hariç),0.999,0.9613,1.0381,0.9583,25935
+Dar gövde,Yalnızca yolcu ana hat,Aksatan olay (tedbir uygulanan),0.9816,0.9232,1.0438,0.5545,25935
+Dar gövde,Yalnızca kargo/diğer,Tüm SDR,0.975,0.652,1.458,0.9018,2242
+Dar gövde,Yalnızca kargo/diğer,Sistem+motor arızası (yapı hariç),0.7293,0.5381,0.9885,0.0419,2242
+Dar gövde,Yalnızca kargo/diğer,Aksatan olay (tedbir uygulanan),1.0859,0.7738,1.5241,0.6335,2242
+Dar gövde,Yalnızca 2022-2026 (COVID sonrası),Tüm SDR,1.0694,1.0254,1.1153,0.0017,21467
+Dar gövde,Yalnızca 2022-2026 (COVID sonrası),Sistem+motor arızası (yapı hariç),0.9843,0.9464,1.0237,0.4293,21467
+Dar gövde,Yalnızca 2022-2026 (COVID sonrası),Aksatan olay (tedbir uygulanan),0.9707,0.9072,1.0387,0.3896,21467
+Dar gövde,Ortak yaş aralığı (5k-60k saat),Tüm SDR,1.2632,1.1959,1.3343,0.0,18353
+Dar gövde,Ortak yaş aralığı (5k-60k saat),Sistem+motor arızası (yapı hariç),1.0906,1.0361,1.1479,0.0009,18353
+Dar gövde,Ortak yaş aralığı (5k-60k saat),Aksatan olay (tedbir uygulanan),1.0308,0.9464,1.1228,0.4861,18353
+Dar gövde,Her iki üreticiyi işleten işletmeciler,Tüm SDR,1.12,1.0787,1.1628,0.0,17541
+Dar gövde,Her iki üreticiyi işleten işletmeciler,Sistem+motor arızası (yapı hariç),1.0018,0.9646,1.0404,0.9256,17541
+Dar gövde,Her iki üreticiyi işleten işletmeciler,Aksatan olay (tedbir uygulanan),0.9884,0.93,1.0505,0.708,17541
+Dar gövde,Kullanımı kendi verisinden ölçülen kuyruklar,Tüm SDR,1.1159,1.0736,1.1598,0.0,27281
+Dar gövde,Kullanımı kendi verisinden ölçülen kuyruklar,Sistem+motor arızası (yapı hariç),1.0024,0.9645,1.0417,0.9034,27281
+Dar gövde,Kullanımı kendi verisinden ölçülen kuyruklar,Aksatan olay (tedbir uygulanan),0.9827,0.9241,1.0451,0.579,27281
+Geniş gövde,Ana model (tüm veri),Tüm SDR,1.9085,1.7413,2.0917,0.0,7965
+Geniş gövde,Ana model (tüm veri),Sistem+motor arızası (yapı hariç),1.668,1.5411,1.8052,0.0,7965
+Geniş gövde,Ana model (tüm veri),Aksatan olay (tedbir uygulanan),1.459,1.2856,1.6558,0.0,7965
+Geniş gövde,Southwest hariç,Tüm SDR,1.9085,1.7413,2.0917,0.0,7964
+Geniş gövde,Southwest hariç,Sistem+motor arızası (yapı hariç),1.668,1.5412,1.8052,0.0,7964
+Geniş gövde,Southwest hariç,Aksatan olay (tedbir uygulanan),1.459,1.2855,1.6558,0.0,7964
+Geniş gövde,Yalnızca yolcu ana hat,Tüm SDR,1.5614,1.3812,1.7652,0.0,3482
+Geniş gövde,Yalnızca yolcu ana hat,Sistem+motor arızası (yapı hariç),1.5185,1.3774,1.6741,0.0,3482
+Geniş gövde,Yalnızca yolcu ana hat,Aksatan olay (tedbir uygulanan),1.1027,0.9186,1.3236,0.2944,3482
+Geniş gövde,Yalnızca kargo/diğer,Tüm SDR,2.2987,2.0256,2.6087,0.0,4483
+Geniş gövde,Yalnızca kargo/diğer,Sistem+motor arızası (yapı hariç),1.7924,1.5835,2.0289,0.0,4483
+Geniş gövde,Yalnızca kargo/diğer,Aksatan olay (tedbir uygulanan),1.8642,1.5447,2.2499,0.0,4483
+Geniş gövde,Yalnızca 2022-2026 (COVID sonrası),Tüm SDR,1.8382,1.6636,2.0312,0.0,6062
+Geniş gövde,Yalnızca 2022-2026 (COVID sonrası),Sistem+motor arızası (yapı hariç),1.64,1.5017,1.7911,0.0,6062
+Geniş gövde,Yalnızca 2022-2026 (COVID sonrası),Aksatan olay (tedbir uygulanan),1.3856,1.1882,1.6157,0.0,6062
+Geniş gövde,Ortak yaş aralığı (5k-60k saat),Tüm SDR,2.2923,2.0151,2.6076,0.0,3955
+Geniş gövde,Ortak yaş aralığı (5k-60k saat),Sistem+motor arızası (yapı hariç),1.847,1.6375,2.0832,0.0,3955
+Geniş gövde,Ortak yaş aralığı (5k-60k saat),Aksatan olay (tedbir uygulanan),1.8971,1.5603,2.3066,0.0,3955
+Geniş gövde,Her iki üreticiyi işleten işletmeciler,Tüm SDR,1.8775,1.7094,2.0622,0.0,4959
+Geniş gövde,Her iki üreticiyi işleten işletmeciler,Sistem+motor arızası (yapı hariç),1.6039,1.4863,1.7308,0.0,4959
+Geniş gövde,Her iki üreticiyi işleten işletmeciler,Aksatan olay (tedbir uygulanan),1.3963,1.2224,1.5949,0.0,4959
+Geniş gövde,Kullanımı kendi verisinden ölçülen kuyruklar,Tüm SDR,1.9267,1.7569,2.1128,0.0,7589
+Geniş gövde,Kullanımı kendi verisinden ölçülen kuyruklar,Sistem+motor arızası (yapı hariç),1.7237,1.5935,1.8646,0.0,7589
+Geniş gövde,Kullanımı kendi verisinden ölçülen kuyruklar,Aksatan olay (tedbir uygulanan),1.4833,1.3013,1.6907,0.0,7589

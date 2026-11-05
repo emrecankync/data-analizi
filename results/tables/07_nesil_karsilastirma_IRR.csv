@@ -1,0 +1,28 @@
+karsilastirma,boeing,airbus,sonuc,IRR_Airbus_vs_Boeing,ga_alt,ga_ust
+Mevcut nesil dar gövde,B737 NG,A320ceo ailesi,Tüm SDR,1.056,1.014,1.099
+Yeni nesil dar gövde (bugün alınacak/kiralanacak),B737 MAX,A320neo ailesi,Tüm SDR,2.058,1.825,2.319
+100-150 koltuk sınıfı,B717,A220,Tüm SDR,2.451,2.132,2.818
+757 vs A321ceo dahil A320ceo,B757,A320ceo ailesi,Tüm SDR,0.708,0.659,0.761
+Mevcut nesil dar gövde,B737 NG,A320ceo ailesi,Sistem+motor arızası (yapı hariç),1.031,0.991,1.073
+Yeni nesil dar gövde (bugün alınacak/kiralanacak),B737 MAX,A320neo ailesi,Sistem+motor arızası (yapı hariç),1.569,1.398,1.76
+100-150 koltuk sınıfı,B717,A220,Sistem+motor arızası (yapı hariç),1.333,1.143,1.555
+757 vs A321ceo dahil A320ceo,B757,A320ceo ailesi,Sistem+motor arızası (yapı hariç),0.572,0.53,0.616
+Mevcut nesil dar gövde,B737 NG,A320ceo ailesi,Aksatan olay (tedbir uygulanan),0.944,0.883,1.009
+Yeni nesil dar gövde (bugün alınacak/kiralanacak),B737 MAX,A320neo ailesi,Aksatan olay (tedbir uygulanan),1.175,1.009,1.367
+100-150 koltuk sınıfı,B717,A220,Aksatan olay (tedbir uygulanan),3.004,2.387,3.779
+757 vs A321ceo dahil A320ceo,B757,A320ceo ailesi,Aksatan olay (tedbir uygulanan),0.732,0.66,0.811
+Yeni nesil geniş gövde,B787,A350,Tüm SDR,1.01,0.826,1.236
+787 vs A330neo,B787,A330neo,Tüm SDR,3.402,2.742,4.222
+Büyük ikiz motor (eski nesil),B777,A330ceo,Tüm SDR,2.189,1.876,2.555
+Orta geniş gövde,B767,A330ceo,Tüm SDR,1.439,1.275,1.625
+Kargo ağırlıklı orta geniş gövde,B767,A300,Tüm SDR,1.886,1.666,2.134
+Yeni nesil geniş gövde,B787,A350,Sistem+motor arızası (yapı hariç),0.986,0.817,1.189
+787 vs A330neo,B787,A330neo,Sistem+motor arızası (yapı hariç),2.239,1.884,2.661
+Büyük ikiz motor (eski nesil),B777,A330ceo,Sistem+motor arızası (yapı hariç),1.424,1.233,1.644
+Orta geniş gövde,B767,A330ceo,Sistem+motor arızası (yapı hariç),1.514,1.361,1.684
+Kargo ağırlıklı orta geniş gövde,B767,A300,Sistem+motor arızası (yapı hariç),1.49,1.313,1.691
+Yeni nesil geniş gövde,B787,A350,Aksatan olay (tedbir uygulanan),1.471,1.104,1.961
+787 vs A330neo,B787,A330neo,Aksatan olay (tedbir uygulanan),1.664,1.235,2.242
+Büyük ikiz motor (eski nesil),B777,A330ceo,Aksatan olay (tedbir uygulanan),1.97,1.571,2.469
+Orta geniş gövde,B767,A330ceo,Aksatan olay (tedbir uygulanan),0.966,0.791,1.18
+Kargo ağırlıklı orta geniş gövde,B767,A300,Aksatan olay (tedbir uygulanan),1.674,1.4,2.002

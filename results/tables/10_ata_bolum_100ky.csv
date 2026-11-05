@@ -1,0 +1,156 @@
+ata,Airbus,Boeing,govde,tur,ata_adi,fark_A_eksi_B
+11,0.159,0.256,Dar gövde,tum,,-0.097
+12,0.01,0.0,Dar gövde,tum,,0.01
+14,0.01,0.007,Dar gövde,tum,,0.003
+21,47.328,20.063,Dar gövde,tum,Klima/Basınçlandırma,27.265
+22,1.475,5.734,Dar gövde,tum,Otopilot,-4.259
+23,1.894,4.857,Dar gövde,tum,Haberleşme,-2.964
+24,3.757,3.893,Dar gövde,tum,Elektrik,-0.135
+25,76.379,97.53,Dar gövde,tum,Kabin donanımı,-21.151
+26,10.026,6.024,Dar gövde,tum,Yangın koruma,4.001
+27,8.73,12.804,Dar gövde,tum,Uçuş kumandaları,-4.074
+28,9.438,8.439,Dar gövde,tum,Yakıt,0.998
+29,9.119,4.135,Dar gövde,tum,Hidrolik,4.983
+30,1.325,6.348,Dar gövde,tum,Buz/yağmur koruma,-5.023
+31,1.973,1.295,Dar gövde,tum,Gösterge/kayıt,0.678
+32,14.949,8.689,Dar gövde,tum,İniş takımı,6.26
+33,93.949,172.277,Dar gövde,tum,Işıklar,-78.329
+34,3.299,13.735,Dar gövde,tum,Seyrüsefer,-10.437
+35,7.923,0.641,Dar gövde,tum,Oksijen,7.282
+36,2.432,3.15,Dar gövde,tum,Pnömatik,-0.719
+37,0.04,0.007,Dar gövde,tum,,0.033
+38,1.076,2.193,Dar gövde,tum,Su/atık,-1.116
+45,0.03,0.0,Dar gövde,tum,Bakım bilgisayarı,0.03
+49,13.155,4.709,Dar gövde,tum,APU,8.446
+51,6.318,4.088,Dar gövde,tum,Yapı (genel),2.23
+52,97.796,64.541,Dar gövde,tum,Kapılar,33.255
+53,187.32,470.661,Dar gövde,tum,Gövde,-283.342
+54,6.518,6.382,Dar gövde,tum,Motor kaporta/pilon,0.136
+55,41.03,44.329,Dar gövde,tum,Stabilizerler,-3.299
+56,5.412,5.464,Dar gövde,tum,Pencereler,-0.053
+57,47.288,69.688,Dar gövde,tum,Kanatlar,-22.4
+61,0.01,0.0,Dar gövde,tum,,0.01
+71,1.325,1.349,Dar gövde,tum,Motor (genel),-0.024
+72,10.275,9.836,Dar gövde,tum,Motor,0.439
+73,3.109,7.171,Dar gövde,tum,Motor yakıt/kontrol,-4.062
+74,0.668,0.998,Dar gövde,tum,Ateşleme,-0.331
+75,3.229,3.683,Dar gövde,tum,Motor havası,-0.454
+76,0.209,0.364,Dar gövde,tum,Motor kontrolü,-0.155
+77,1.545,1.875,Dar gövde,tum,Motor göstergeleri,-0.331
+78,2.023,1.073,Dar gövde,tum,Egzoz/ters itki,0.95
+79,1.575,1.208,Dar gövde,tum,Motor yağı,0.367
+80,0.159,1.437,Dar gövde,tum,Marş,-1.277
+83,0.02,0.034,Dar gövde,tum,,-0.014
+11,0.0,0.007,Dar gövde,aksatan,,-0.007
+14,0.01,0.0,Dar gövde,aksatan,,0.01
+21,7.066,4.102,Dar gövde,aksatan,Klima/Basınçlandırma,2.964
+22,0.618,1.066,Dar gövde,aksatan,Otopilot,-0.448
+23,0.339,0.418,Dar gövde,aksatan,Haberleşme,-0.079
+24,1.495,1.214,Dar gövde,aksatan,Elektrik,0.281
+25,0.847,0.675,Dar gövde,aksatan,Kabin donanımı,0.172
+26,1.176,1.255,Dar gövde,aksatan,Yangın koruma,-0.079
+27,3.707,5.701,Dar gövde,aksatan,Uçuş kumandaları,-1.993
+28,1.674,1.963,Dar gövde,aksatan,Yakıt,-0.289
+29,5.342,2.361,Dar gövde,aksatan,Hidrolik,2.981
+30,0.827,0.877,Dar gövde,aksatan,Buz/yağmur koruma,-0.05
+31,0.658,0.621,Dar gövde,aksatan,Gösterge/kayıt,0.037
+32,6.418,3.427,Dar gövde,aksatan,İniş takımı,2.991
+33,0.179,0.263,Dar gövde,aksatan,Işıklar,-0.084
+34,2.123,3.245,Dar gövde,aksatan,Seyrüsefer,-1.122
+35,0.339,0.135,Dar gövde,aksatan,Oksijen,0.204
+36,1.395,0.843,Dar gövde,aksatan,Pnömatik,0.552
+37,0.01,0.0,Dar gövde,aksatan,,0.01
+38,0.588,0.897,Dar gövde,aksatan,Su/atık,-0.309
+45,0.02,0.0,Dar gövde,aksatan,Bakım bilgisayarı,0.02
+49,1.026,0.472,Dar gövde,aksatan,APU,0.554
+51,0.518,0.297,Dar gövde,aksatan,Yapı (genel),0.221
+52,2.87,2.273,Dar gövde,aksatan,Kapılar,0.597
+53,0.568,0.412,Dar gövde,aksatan,Gövde,0.157
+54,0.07,0.074,Dar gövde,aksatan,Motor kaporta/pilon,-0.004
+55,0.289,0.013,Dar gövde,aksatan,Stabilizerler,0.276
+56,0.498,1.032,Dar gövde,aksatan,Pencereler,-0.534
+57,0.149,0.121,Dar gövde,aksatan,Kanatlar,0.028
+71,0.159,0.216,Dar gövde,aksatan,Motor (genel),-0.056
+72,5.631,3.65,Dar gövde,aksatan,Motor,1.981
+73,1.156,1.619,Dar gövde,aksatan,Motor yakıt/kontrol,-0.463
+74,0.07,0.304,Dar gövde,aksatan,Ateşleme,-0.234
+75,1.953,0.978,Dar gövde,aksatan,Motor havası,0.975
+76,0.1,0.094,Dar gövde,aksatan,Motor kontrolü,0.005
+77,1.036,0.675,Dar gövde,aksatan,Motor göstergeleri,0.362
+78,0.618,0.324,Dar gövde,aksatan,Egzoz/ters itki,0.294
+79,1.017,0.513,Dar gövde,aksatan,Motor yağı,0.504
+80,0.11,0.412,Dar gövde,aksatan,Marş,-0.302
+83,0.02,0.034,Dar gövde,aksatan,,-0.014
+11,1.006,0.237,Geniş gövde,tum,,0.769
+21,29.299,22.162,Geniş gövde,tum,Klima/Basınçlandırma,7.137
+22,3.269,1.577,Geniş gövde,tum,Otopilot,1.692
+23,12.826,1.775,Geniş gövde,tum,Haberleşme,11.052
+24,7.042,7.926,Geniş gövde,tum,Elektrik,-0.884
+25,68.156,62.109,Geniş gövde,tum,Kabin donanımı,6.046
+26,7.796,8.754,Geniş gövde,tum,Yangın koruma,-0.958
+27,6.665,8.912,Geniş gövde,tum,Uçuş kumandaları,-2.248
+28,14.335,4.535,Geniş gövde,tum,Yakıt,9.8
+29,14.964,5.087,Geniş gövde,tum,Hidrolik,9.877
+30,8.551,2.208,Geniş gövde,tum,Buz/yağmur koruma,6.343
+31,2.766,2.682,Geniş gövde,tum,Gösterge/kayıt,0.085
+32,17.982,11.712,Geniş gövde,tum,İniş takımı,6.27
+33,201.198,237.908,Geniş gövde,tum,Işıklar,-36.71
+34,5.91,7.808,Geniş gövde,tum,Seyrüsefer,-1.898
+35,43.635,1.814,Geniş gövde,tum,Oksijen,41.821
+36,8.048,2.405,Geniş gövde,tum,Pnömatik,5.642
+38,2.389,3.825,Geniş gövde,tum,Su/atık,-1.436
+45,0.503,0.0,Geniş gövde,tum,Bakım bilgisayarı,0.503
+49,18.359,1.814,Geniş gövde,tum,APU,16.545
+51,22.006,7.374,Geniş gövde,tum,Yapı (genel),14.632
+52,194.91,85.928,Geniş gövde,tum,Kapılar,108.983
+53,421.886,126.86,Geniş gövde,tum,Gövde,295.026
+54,6.539,12.461,Geniş gövde,tum,Motor kaporta/pilon,-5.922
+55,9.934,8.794,Geniş gövde,tum,Stabilizerler,1.14
+56,1.76,6.467,Geniş gövde,tum,Pencereler,-4.707
+57,52.689,31.193,Geniş gövde,tum,Kanatlar,21.496
+71,1.635,0.789,Geniş gövde,tum,Motor (genel),0.846
+72,17.982,6.428,Geniş gövde,tum,Motor,11.554
+73,16.473,2.642,Geniş gövde,tum,Motor yakıt/kontrol,13.831
+74,1.509,0.237,Geniş gövde,tum,Ateşleme,1.272
+75,11.82,1.42,Geniş gövde,tum,Motor havası,10.401
+76,0.754,0.158,Geniş gövde,tum,Motor kontrolü,0.597
+77,2.263,0.749,Geniş gövde,tum,Motor göstergeleri,1.514
+78,5.784,1.183,Geniş gövde,tum,Egzoz/ters itki,4.601
+79,5.281,1.222,Geniş gövde,tum,Motor yağı,4.059
+80,0.629,0.197,Geniş gövde,tum,Marş,0.432
+83,0.251,0.039,Geniş gövde,tum,,0.212
+21,6.539,8.123,Geniş gövde,aksatan,Klima/Basınçlandırma,-1.585
+22,1.257,1.262,Geniş gövde,aksatan,Otopilot,-0.004
+23,0.629,1.025,Geniş gövde,aksatan,Haberleşme,-0.397
+24,1.635,5.442,Geniş gövde,aksatan,Elektrik,-3.807
+25,1.635,2.051,Geniş gövde,aksatan,Kabin donanımı,-0.416
+26,1.006,1.459,Geniş gövde,aksatan,Yangın koruma,-0.453
+27,1.76,4.85,Geniş gövde,aksatan,Uçuş kumandaları,-3.09
+28,1.635,2.524,Geniş gövde,aksatan,Yakıt,-0.889
+29,5.03,3.155,Geniş gövde,aksatan,Hidrolik,1.875
+30,1.257,1.577,Geniş gövde,aksatan,Buz/yağmur koruma,-0.32
+31,0.377,2.129,Geniş gövde,aksatan,Gösterge/kayıt,-1.752
+32,6.036,5.639,Geniş gövde,aksatan,İniş takımı,0.397
+33,0.377,0.434,Geniş gövde,aksatan,Işıklar,-0.057
+34,3.144,5.481,Geniş gövde,aksatan,Seyrüsefer,-2.338
+35,0.377,0.67,Geniş gövde,aksatan,Oksijen,-0.293
+36,2.892,1.972,Geniş gövde,aksatan,Pnömatik,0.92
+38,1.383,2.721,Geniş gövde,aksatan,Su/atık,-1.338
+45,0.251,0.0,Geniş gövde,aksatan,Bakım bilgisayarı,0.251
+49,1.635,0.434,Geniş gövde,aksatan,APU,1.201
+51,0.754,0.513,Geniş gövde,aksatan,Yapı (genel),0.242
+52,2.515,2.011,Geniş gövde,aksatan,Kapılar,0.504
+53,0.629,0.71,Geniş gövde,aksatan,Gövde,-0.081
+54,0.377,0.118,Geniş gövde,aksatan,Motor kaporta/pilon,0.259
+56,0.754,1.617,Geniş gövde,aksatan,Pencereler,-0.862
+57,0.126,0.237,Geniş gövde,aksatan,Kanatlar,-0.111
+71,0.503,0.631,Geniş gövde,aksatan,Motor (genel),-0.128
+72,7.042,4.614,Geniş gövde,aksatan,Motor,2.428
+73,4.401,2.011,Geniş gövde,aksatan,Motor yakıt/kontrol,2.39
+74,0.126,0.039,Geniş gövde,aksatan,Ateşleme,0.086
+75,4.024,1.301,Geniş gövde,aksatan,Motor havası,2.723
+76,0.629,0.158,Geniş gövde,aksatan,Motor kontrolü,0.471
+77,0.754,0.71,Geniş gövde,aksatan,Motor göstergeleri,0.045
+78,0.377,0.158,Geniş gövde,aksatan,Egzoz/ters itki,0.22
+79,1.132,0.828,Geniş gövde,aksatan,Motor yağı,0.304
+80,0.377,0.197,Geniş gövde,aksatan,Marş,0.18
